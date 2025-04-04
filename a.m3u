@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-logo="",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-logo="",TRT HABER
+#EXTINF:-1 tvg-logo="trthaber.png",TRT HABER
 https://tv-trthaber.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo="",TRT TURK
@@ -20,7 +20,7 @@ https://tv-trtavaz.medya.trt.com.tr/master.m3u8
 https://canli.tgrthaber.com/tgrt.m3u8
 
 #EXTINF:-1 tvg-logo="",TGRT BELGESEL
-https://canli.tgrtbelgesel.com/tgrt.m3u8
+https://tgrt-live.ercdn.net/tgrtbelgesel/tgrtbelgesel.m3u8
 
 #EXTINF:-1 tvg-logo="",KANAL D
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
