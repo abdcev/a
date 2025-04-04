@@ -32,7 +32,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/star.png",STAR
-https://trn03.tulix.tv/gt-startv/playlist.m3u8
+https://dogus-live.daioncdn.net/startv/startv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/atv.png",ATV
 https://trkvz.daioncdn.net/atv/atv.m3u8
