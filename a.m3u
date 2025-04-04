@@ -32,7 +32,7 @@ https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/star.png",STAR
-https://dogus.daioncdn.net/startv/startv_480p.m3u8
+https://dogus.daioncdn.net/startv/startv.m3u8?&sid=7aq5c23mh9ei&app=a20ac41e-bdc3-4aa1-934d-26b484480ac9&ce=3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/atv.png",ATV
 https://trkvz.daioncdn.net/atv/atv.m3u8
