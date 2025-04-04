@@ -29,7 +29,7 @@ https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/showtv.png",SHOW TV
-https://ciner.daioncdn.net/showtv/showtv.m3u8
+https://ciner-live.ercdn.net/showturk/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/star.png",STAR
 https://dogus.daioncdn.net/startv/startv.m3u8
