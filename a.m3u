@@ -49,6 +49,9 @@ https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3&ppid=193e9
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/beyaztv.png",BEYAZ TV
 https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/cine1.png",CİNE1
+https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/tlc.png",TLC
 https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&token=b3E2NmdzZVc1VUtMV3ljbzNaNDE5REl4UTVDejlFNkRFT2dEQVlnNldsMD0=
 
@@ -80,53 +83,4 @@ https://1hskrdto.rocketcdn.com/fenerbahcetv.smil/playlist.m3u8
 https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/selcuksports.png",SELCUK SPORTS
-https://sette.523506e0a86d39c0.click/i/kopruluu55.github.io/601/a.cf-worker-b40ad8d5fa502bf2.workers.dev/chunklist_hd.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="SELÇUK SPORTS",BEİN SPORTS 1
-https://sette.523506e0a86d39c0.click/i/kopruluu55.github.io/601/a.cf-worker-fb9cab4e0e7d1a68.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="SELÇUK SPORTS",BEİN SPORTS 2
-https://sette.523506e0a86d39c0.click/i/kopruluu55.github.io/602/a.cf-worker-fb9cab4e0e7d1a68.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="SELÇUK SPORTS",BEİN SPORTS 3
-https://sette.523506e0a86d39c0.click/i/kopruluu55.github.io/603/a.cf-worker-fb9cab4e0e7d1a68.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="SELÇUK SPORTS",BEİN SPORTS 4
-https://sette.946b85c3197f1fc7.click/p/kopruluu55.github.io/604/a.cf-worker-fb9cab4e0e7d1a68.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="SELÇUK SPORTS",BEİN SPORTS 5
-https://sette.946b85c3197f1fc7.click/p/kopruluu55.github.io/705/a.cf-worker-fb9cab4e0e7d1a68.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="SELÇUK SPORTS",BEİN SPORTS MAX 1
-https://sette.946b85c3197f1fc7.click/p/kopruluu55.github.io/805/a.cf-worker-fb9cab4e0e7d1a68.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="SELÇUK SPORTS",BEİN SPORTS MAX 2
-https://sette.946b85c3197f1fc7.click/p/kopruluu55.github.io/806/a.cf-worker-fb9cab4e0e7d1a68.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="SELÇUK SPORTS",SSPORT PLUS 1
-https://sette.946b85c3197f1fc7.click/p/kopruluu55.github.io/3450/a.cf-worker-fb9cab4e0e7d1a68.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="SELÇUK SPORTS",S SPORT PLUS 2
-https://sette.946b85c3197f1fc7.click/p/kopruluu55.github.io/3451/a.cf-worker-fb9cab4e0e7d1a68.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="SELÇUK SPORTS",SPOR SMART 1
-https://sette.946b85c3197f1fc7.click/p/kopruluu55.github.io/102/a.cf-worker-fb9cab4e0e7d1a68.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="SELÇUK SPORTS",SPOR SMART 2
-https://sette.946b85c3197f1fc7.click/p/kopruluu55.github.io/103/a.cf-worker-fb9cab4e0e7d1a68.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="SELÇUK SPORTS",TİVİBU SPOR 1
-https://sette.946b85c3197f1fc7.click/p/kopruluu55.github.io/606/a.cf-worker-fb9cab4e0e7d1a68.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="SELÇUK SPORTS",TİVİBU SPOR 2
-https://sette.946b85c3197f1fc7.click/p/kopruluu55.github.io/607/a.cf-worker-fb9cab4e0e7d1a68.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="SELÇUK SPORTS",TİVİBU SPOR 3
-https://sette.946b85c3197f1fc7.click/p/kopruluu55.github.io/608/a.cf-worker-fb9cab4e0e7d1a68.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="SELÇUK SPORTS",TİVİBU SPOR 4
-https://sette.946b85c3197f1fc7.click/p/kopruluu55.github.io/609/a.cf-worker-fb9cab4e0e7d1a68.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="SELÇUK SPORTS",A SPOR
-https://sette.946b85c3197f1fc7.click/p/kopruluu55.github.io/172/a.cf-worker-fb9cab4e0e7d1a68.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="SELÇUK SPORTS",TRT SPOR
-https://sette.946b85c3197f1fc7.click/p/kopruluu55.github.io/2889/a.cf-worker-fb9cab4e0e7d1a68.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="SELÇUK SPORTS",TRT SPOR 2
-https://sette.946b85c3197f1fc7.click/p/kopruluu55.github.io/2890/a.cf-worker-fb9cab4e0e7d1a68.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="SELÇUK SPORTS",TRT AVAZ
-https://sette.946b85c3197f1fc7.click/p/kopruluu55.github.io/2891/a.cf-worker-fb9cab4e0e7d1a68.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="SELÇUK SPORTS",TRT 1
-https://sette.946b85c3197f1fc7.click/p/kopruluu55.github.io/2888/a.cf-worker-fb9cab4e0e7d1a68.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="SELÇUK SPORTS",NBA TV
-https://sette.946b85c3197f1fc7.click/p/kopruluu55.github.io/112/a.cf-worker-fb9cab4e0e7d1a68.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="SELÇUK SPORTS",EURO SPORT 1
-https://sette.946b85c3197f1fc7.click/p/kopruluu55.github.io/132/a.cf-worker-fb9cab4e0e7d1a68.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="SELÇUK SPORTS",EURO SPORT 2
-https://sette.946b85c3197f1fc7.click/p/kopruluu55.github.io/142/a.cf-worker-fb9cab4e0e7d1a68.workers.dev/chunklist_hd.m3u8
-#EXTINF:-1 tvg-logo="https://www.beceriksizler.net/images/OzBeceriksizlerNetV2/logo.png" group-title="SELÇUK SPORTS",EXXEN TV
-https://sette.946b85c3197f1fc7.click/p/kopruluu55.github.io/4011/a.cf-worker-fb9cab4e0e7d1a68.workers.dev/chunklist_hd.m3u8
+https://cartoonito.blutv.com/blutv_cartoonito/smil:cartoonito.smil/playlist.m3u8
