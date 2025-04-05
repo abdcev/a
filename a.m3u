@@ -84,3 +84,24 @@ https://trkvz-live.ercdn.net/asporhd/asporhd.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/selcuksports.png",a
 https://ythls.kekikakademi.org/youtube/video/watch?v=oMcichyr4ag.m3u8
+
+#EXTINF:-1 tvg-id="BEINSPORTS2" tvg-name="BEIN SPORTS 2" tvg-group="Spor" tvg-logo="https://i.hizliresim.com/5j967nr.png" group-title="Spor",BEIN SPORTS 2
+https://vavoo.to/play/2851539143/index.m3u8
+#EXTINF:-1 tvg-id="BEINSPORTS2" tvg-name="BEIN SPORTS 2" tvg-group="Spor" tvg-logo="https://i.hizliresim.com/5j967nr.png" group-title="Spor",BEIN SPORTS 2
+https://vavoo.to/play/3236362911/index.m3u8
+#EXTINF:-1 tvg-id="BEINSPORTS2" tvg-name="BEIN SPORTS 2" tvg-group="Spor" tvg-logo="https://i.hizliresim.com/5j967nr.png" group-title="Spor",BEIN SPORTS 2
+https://vavoo.to/play/3694662475/index.m3u8
+#EXTINF:-1 tvg-id="BEINSPORTS3" tvg-name="BEIN SPORTS 3" tvg-group="Spor" tvg-logo="https://i.hizliresim.com/5j967nr.png" group-title="Spor",BEIN SPORTS 3
+https://vavoo.to/play/2834514943/index.m3u8
+#EXTINF:-1 tvg-id="BEINSPORTS3" tvg-name="BEIN SPORTS 3" tvg-group="Spor" tvg-logo="https://i.hizliresim.com/5j967nr.png" group-title="Spor",BEIN SPORTS 3
+https://vavoo.to/play/1797459602/index.m3u8
+#EXTINF:-1 tvg-id="BEINSPORTS3" tvg-name="BEIN SPORTS 3" tvg-group="Spor" tvg-logo="https://i.hizliresim.com/5j967nr.png" group-title="Spor",BEIN SPORTS 3
+https://vavoo.to/play/1700595801/index.m3u8
+#EXTINF:-1 tvg-id="BEINSPORTS3" tvg-name="BEIN SPORTS 3" tvg-group="Spor" tvg-logo="https://i.hizliresim.com/5j967nr.png" group-title="Spor",BEIN SPORTS 3
+https://vavoo.to/play/206371329/index.m3u8
+#EXTINF:-1 tvg-id="BEINSPORTS3" tvg-name="BEIN SPORTS 3" tvg-group="Spor" tvg-logo="https://i.hizliresim.com/5j967nr.png" group-title="Spor",BEIN SPORTS 3
+https://vavoo.to/play/3410167560/index.m3u8
+#EXTINF:-1 tvg-id="BEINSPORTS4" tvg-name="BEIN SPORTS 4" tvg-group="Spor" tvg-logo="https://i.hizliresim.com/5j967nr.png" group-title="Spor",BEIN SPORTS 4
+https://vavoo.to/play/450076655/index.m3u8
+#EXTINF:-1 tvg-id="BEINSPORTS4" tvg-name="BEIN SPORTS 4" tvg-group="Spor" tvg-logo="https://i.hizliresim.com/5j967nr.png" group-title="Spor",BEIN SPORTS 4
+https://vavoo.to/play/3640906370/index.m3u8
