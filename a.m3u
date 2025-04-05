@@ -41,22 +41,19 @@ https://trkvz.daioncdn.net/atv/atv.m3u8?app=d5eb593f-39d9-4b01-9cfd-4748e8332cf0
 https://nowtv-live-ad.ercdn.net/nowtv/playlist.m3u8?st=MfG9pAAWwQIkhqPOTLA61w&e=1743873063
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/tv8.png",TV8
-https://tv8.daioncdn.net/tv8/tv8.m3u8
+https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3&ppid=193e914bf37108b6cb17a44cab3cb39b
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/tv85.png",TV8.5
-https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3&ppid=193e914bf37108b6cb17a44cab3cb39b
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/beyaztv.png",BEYAZ TV
-https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8
+https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/tlc.png",TLC
-https://dogus.daioncdn.net/tlc/tlc.m3u8
+https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&token=b3E2NmdzZVc1VUtMV3ljbzNaNDE5REl4UTVDejlFNkRFT2dEQVlnNldsMD0=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/dmax.png",DMAX
-https://dogus.daioncdn.net/dmax/dmax.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/cnbce.png",CNBC
-https://cnbc-live.akamaized.net/cnbc/master.m3u8
+https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7&token=RzdHVjJJVEdSeDN5Q3JXVW9OcnZsY3V6cVlGeStxdUs3VHUzZlBpWVVSYz0=
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/teve2.png",TEVE2
 https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
@@ -68,10 +65,10 @@ https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/cnntürk.png",CNN TÜRK
-https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8
+https://live.duhnet.tv//S2/HLS_LIVE/cnnturknp/playlist.m3u8?&live=true&app=com.cnnturk&st=hFhLHpCcLTkXVjoGHJ6reg&e=1743870463
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/ntv.png",NTV
-https://dogus.daioncdn.net/ntv/ntv.m3u8
+https://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3&token=e8c0dec16bf84c8cc187224d13811c0e705fd2c58b25d7ee&ppid=193e914bf37108b6cb17a44cab3cb39b
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/trtspor.png",TRT SPOR
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
