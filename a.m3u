@@ -114,3 +114,39 @@ http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/makka.png",Al Quran Al Kareem TV
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+
+#EXTINF:-1 tvg-logo="",aqjaiyq
+https://stream.kaztrk.kz/regional/oraltv/index.m3u8
+
+#EXTINF:-1 tvg-logo="",aqtobe
+https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
+
+#EXTINF:-1 tvg-logo="",atyray
+https://stream.kaztrk.kz/regional/atyrautv/index.m3u8
+
+#EXTINF:-1 tvg-logo="",balapan
+https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="",jambyl
+https://stream.kaztrk.kz/regional/taraztv/index.m3u8
+
+#EXTINF:-1 tvg-logo="",kokshe
+https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
+
+#EXTINF:-1 tvg-logo="",ontustik
+https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8
+
+#EXTINF:-1 tvg-logo="",qostanai
+https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
+
+#EXTINF:-1 tvg-logo="",Qyzyljar
+https://stream.kaztrk.kz/regional/petropavltv/index.m3u8
+
+#EXTINF:-1 tvg-logo="",Qyzylorda
+https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="",Saryarqa
+https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
+
+#EXTINF:-1 tvg-logo="",Semei
+https://stream.kaztrk.kz/regional/semeytv/index.m3u8
