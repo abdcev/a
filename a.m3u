@@ -106,41 +106,41 @@ https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/abaitv.png",Abai TV
 https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/aqjaiyq.png",Aqjaiyq
+https://stream.kaztrk.kz/regional/oraltv/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/ertis.png",Ertis
 https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/atyray.png",Atyray
+https://stream.kaztrk.kz/regional/atyrautv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/jambyl.png",Jambyl
+https://stream.kaztrk.kz/regional/taraztv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/kokshe.png",Kokshe
+https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/mangystay.png",Mangystay
+https://stream.kaztrk.kz/regional/mangystautv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/qostanai.png",Qostanai
+https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/qyzyljar.png",Qyzyljar
+https://stream.kaztrk.kz/regional/petropavltv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/qyzylorda.png",Qyzylorda
+https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/saryarqa.png",Saryarqa
+https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/semei.png",Semei
+https://stream.kaztrk.kz/regional/semeytv/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/medina.png",Al Sunnah Al Nabawiyah TV
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/makka.png",Al Quran Al Kareem TV
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
-
-#EXTINF:-1 tvg-logo="",Aqjaiyq
-https://stream.kaztrk.kz/regional/oraltv/index.m3u8
-
-#EXTINF:-1 tvg-logo="",Atyray
-https://stream.kaztrk.kz/regional/atyrautv/index.m3u8
-
-#EXTINF:-1 tvg-logo="",Jambyl
-https://stream.kaztrk.kz/regional/taraztv/index.m3u8
-
-#EXTINF:-1 tvg-logo="",Kokshe
-https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
-
-#EXTINF:-1 tvg-logo="",Qostanai
-https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
-
-#EXTINF:-1 tvg-logo="",Qyzyljar
-https://stream.kaztrk.kz/regional/petropavltv/index.m3u8
-
-#EXTINF:-1 tvg-logo="",Qyzylorda
-https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
-
-#EXTINF:-1 tvg-logo="",Saryarqa
-https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
-
-#EXTINF:-1 tvg-logo="",Semei
-https://stream.kaztrk.kz/regional/semeytv/index.m3u8
-
-#EXTINF:-1 tvg-logo="",Mangystay
-https://stream.kaztrk.kz/regional/mangystautv/index.m3u8
