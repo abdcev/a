@@ -37,7 +37,7 @@ https://dogus-live.daioncdn.net/startv/startv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/atv.png",ATV
 https://trkvz.daioncdn.net/atv/atv.m3u8?app=d5eb593f-39d9-4b01-9cfd-4748e8332cf0
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/now.png",NOW2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/now.png",NOW
 http://116.202.238.88/FOXTV_TR/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/tv8.png",TV8
@@ -115,28 +115,19 @@ http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/makka.png",Al Quran Al Kareem TV
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 
-#EXTINF:-1 tvg-logo="",aqjaiyq
+#EXTINF:-1 tvg-logo="",Aqjaiyq
 https://stream.kaztrk.kz/regional/oraltv/index.m3u8
 
-#EXTINF:-1 tvg-logo="",aqtobe
-https://stream.kaztrk.kz/regional/aktobetv/index.m3u8
-
-#EXTINF:-1 tvg-logo="",atyray
+#EXTINF:-1 tvg-logo="",Atyray
 https://stream.kaztrk.kz/regional/atyrautv/index.m3u8
 
-#EXTINF:-1 tvg-logo="",balapan
-https://balapantv-stream.qazcdn.com/balapantv/balapantv/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="",jambyl
+#EXTINF:-1 tvg-logo="",Jambyl
 https://stream.kaztrk.kz/regional/taraztv/index.m3u8
 
-#EXTINF:-1 tvg-logo="",kokshe
+#EXTINF:-1 tvg-logo="",Kokshe
 https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
 
-#EXTINF:-1 tvg-logo="",ontustik
-https://stream.kaztrk.kz/regional/shymkenttv/index.m3u8
-
-#EXTINF:-1 tvg-logo="",qostanai
+#EXTINF:-1 tvg-logo="",Qostanai
 https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
 
 #EXTINF:-1 tvg-logo="",Qyzyljar
@@ -150,3 +141,9 @@ https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
 
 #EXTINF:-1 tvg-logo="",Semei
 https://stream.kaztrk.kz/regional/semeytv/index.m3u8
+
+#EXTINF:-1 tvg-logo="",jibek joly
+https://stream.qazcdn.net/jjtv/jjtv/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="",moongustai
+https://stream.kaztrk.kz/regional/mangystautv/index.m3u8
