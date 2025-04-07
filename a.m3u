@@ -25,6 +25,23 @@ https://canli.tgrthaber.com/tgrt.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/kanald.png",KANAL D2
 https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
 
+#EXTINF:-1 tvg-id="KANALD" tvg-name="KANAL D" tvg-group="Ulusal" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="Ulusal",KANAL D
+https://vavoo.to/play/231583905/index.m3u8
+#EXTINF:-1 tvg-id="KANALD" tvg-name="KANAL D" tvg-group="Ulusal" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="Ulusal",KANAL D
+https://vavoo.to/play/1677679684/index.m3u8
+#EXTINF:-1 tvg-id="KANALD" tvg-name="KANAL D" tvg-group="Ulusal" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="Ulusal",KANAL D
+https://vavoo.to/play/1781656098/index.m3u8
+#EXTINF:-1 tvg-id="KANALD" tvg-name="KANAL D" tvg-group="Ulusal" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="Ulusal",KANAL D
+https://vavoo.to/play/1130441933/index.m3u8
+#EXTINF:-1 tvg-id="KANALD" tvg-name="KANAL D" tvg-group="Ulusal" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="Ulusal",KANAL D
+https://vavoo.to/play/1371306270/index.m3u8
+#EXTINF:-1 tvg-id="KANALD" tvg-name="KANAL D" tvg-group="Ulusal" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="Ulusal",KANAL D
+https://vavoo.to/play/4113822297/index.m3u8
+#EXTINF:-1 tvg-id="KANALD" tvg-name="KANAL D" tvg-group="Ulusal" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="Ulusal",KANAL D
+https://vavoo.to/play/4193250917/index.m3u8
+#EXTINF:-1 tvg-id="KANALD" tvg-name="KANAL D" tvg-group="Ulusal" tvg-logo="https://seeklogo.com/images/K/kanal-d-logo-8327051372-seeklogo.com.png" group-title="Ulusal",KANAL D
+https://vavoo.to/play/712040085/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/kanal7.png",KANAL 7
 https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
 
