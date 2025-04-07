@@ -148,10 +148,5 @@ http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/makka.png",Al Quran Al Kareem TV
 https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK (backup)
-https://live.duhnet.tv/S2/HLS_LIVE/cnnturknp/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK (backup)
-https://yayin2.canlitv.fun/livetv/cnnturk.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/JqWCczW/cnnturk1.png",CNN TÜRK
-http://tgn.bozztv.com/dvrfl05/gin-cnnturk/index.m3u8
+#EXTINF:-1 tvg-id="CNNTurk.tr" tvg-logo="http://assets.tvcdn.net/db0e3f2f-3191-4af2-9cde-5345eb7543e4.png" group-title="Haber",CNN TÃ¼rk
+http://stream.tvcdn.net/haber/cnn-turk.m3u8
