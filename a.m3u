@@ -35,7 +35,10 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/atv.png",ATV
-http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
+http://185.234.111.229:8000/play/a018
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/atv.png",ATV2
+https://streamer2.nexgen.bz/ATV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/now.png",NOW
 http://116.202.238.88/FOXTV_TR/index.m3u8
