@@ -64,9 +64,6 @@ https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/360tv.png",360
 https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/cnntürk.png",CNN TÜRK
-https://proxyb.glitch.me/live/cnnturk.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/ahaber.png",A HABER
 https://trkvz-live.ercdn.net/ahaberhd/ahaberhd.m3u8
 
