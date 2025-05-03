@@ -142,8 +142,8 @@ https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/semei.png",Semei
 https://stream.kaztrk.kz/regional/semeytv/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/cartoonnetwork.png",CARTOON NETWORK
-http://51.20.137.71/stream/yt/cartoonnetwork.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/trtcocuk.png",TRT ÇOCUK
+https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/medina.png",Al Sunnah Al Nabawiyah TV
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
