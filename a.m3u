@@ -1,7 +1,4 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/trt1.png",TRT 1
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/trt1.png",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/trthaber.png",TRT HABER
@@ -38,7 +35,7 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/atv.png",ATV
-http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/now.png",NOW
 https://a.abdcev.workers.dev/live/index.m3u8
@@ -101,7 +98,7 @@ https://1hskrdto.rocketcdn.com/fenerbahcetv.stream/playlist.m3u8
 https://trkvz-live.daioncdn.net/aspor/aspor.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/ssport.png",S SPORT
-https://bcovlive-a.akamaihd.net/540fcb034b144b848e7ff887f61a293a/eu-central-1/6415845530001/profile_0/chunklist.m3u8
+https://live.sportstv.com.tr/hls/low/sportstv_hd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/ssport2.png",S SPORT 2
 https://bcovlive-a.akamaihd.net/29c60f23ea4840ba8726925a77fcfd0b/eu-central-1/6415845530001/profile_0/chunklist.m3u8
