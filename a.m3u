@@ -35,7 +35,7 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/atv.png",ATV5
-https://a.dalinpepe1.workers.dev/live/index.m3u8
+https://trkvz-live.ercdn.net/atvhd/atvhd.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/now.png",NOW
 https://a.abdcev.workers.dev/live/index.m3u8
