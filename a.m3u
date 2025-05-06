@@ -1,11 +1,5 @@
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/trt1.png",TRT 1
-https://a.dalinpepe1.workers.dev/live/kanal1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/trt1.png",TRT 1
-https://a.dalinpepe1.workers.dev/live/kanal2.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/trt1.png",TRT 1
-https://a.dalinpepe1.workers.dev/live/kanal3.m3u8
+https://proxyb.glitch.me/atv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/trt1.png",TRT 1
 https://tv-trt1.medya.trt.com.tr/master.m3u8
