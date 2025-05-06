@@ -34,11 +34,8 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/star.png",STAR
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/atv.png",ATV
-https://proxya.glitch.me/live/kana1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/atv.png",ATV2
-https://proxya.glitch.me/live/kana2.m3u8
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/atv.png",ATV3
+https://proxya.glitch.me/live/kanal2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/now.png",NOW
 https://a.abdcev.workers.dev/live/index.m3u8
