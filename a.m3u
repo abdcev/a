@@ -35,7 +35,7 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/atv.png",ATV
-http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/now.png",NOW
 https://a.abdcev.workers.dev/live/index.m3u8
@@ -154,8 +154,40 @@ https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/
 #EXTINF:-1 tvg-logo="",TEST9
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
 
-#EXTINF:-1 tvg-logo="",TEST7
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_360p.m3u8
+#EXTINF:-1 tvg-name="Beinbox Office 1" tvg-language="Turkish" tvg-country="TR" tvg-id="Sinema_BeinboxOffice1" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-box-office-1-logo.png"group-title="Sinema",Beinbox Office 1
+https://tv1.arectv30.sbs/live/box1.m3u8
 
-#EXTINF:-1 tvg-logo="",TEST8
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_480p.m3u8
+#EXTINF:-1 tvg-name="Beinbox Office 3" tvg-language="Turkish" tvg-country="TR" tvg-id="Sinema_BeinboxOffice3" tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-box-office-3-logo.png" group-title="Sinema",Beinbox Office 3
+https://tv1.arectv30.sbs/live/box3.m3u8
+
+#EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1715419203610857472/W2ZpsXbt_400x400.jpg" group-title="Sinema",FX
+https://saran-live.ercdn.net/fx/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://media0065.elcinema.com/tvguide/1322_1.png" group-title="Sinema",Bein Movies premiere
+https://tv1.arectv30.sbs/live/bspremier1.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.tvyayinakisi.com/wp-content/uploads/2020/05/bein-movies-stars-logo.png" group-title="Sinema",Bein Movies Stars
+https://tv1.arectv30.sbs/live/bsstars.m3u8
+
+#EXTINF:0 group-title="Belgesel" , National Geografi
+https://saran-live.ercdn.net/natgeohd/index.m3u8
+
+#EXTINF:0 group-title="Belgesel" , Nat Geo Wild
+https://saran-live.ercdn.net/natgeowild/index.m3u8
+
+#EXTINF:0 group-title="Belgesel" , BBC
+https://tv1.arectv30.sbs/live/bbc.m3u8
+
+#EXTINF:0 group-title="Belgesel" , History
+https://tv1.arectv30.sbs/live/history.m3u8
+
+#EXTINF:0 group-title="Belgesel" , Discovery
+https://tv1.arectv30.sbs/live/discovery.m3u8
+
+
+#EXTINF:-1 tvg-name="TABİİ TV" tvg-language="Turkish" tvg-country="TR" tvg-id="Sinema_TABİİTV" group-title="Sinema",TABİİ TV
+https://ceokzokgtd.erbvr.com/tabiitv/tabiitv_720p.m3u8
+
+
+#EXTINF:-1tvg-name="CARTOON NETWORK TR" tvg-language="Türkçe" tvg-country="TR" tvg-id="ÇizgiFilm_CARTOONNETWORKTR" tvg-logo="https://i.ibb.co/Zxd0j45/cartoonnetwork.png" group-title="ÇizgiFilm", CARTOON NETWORK TR
+https://cartoonnetwork.blutv.com/blutv_cartoonnetwork/live.m3u8
