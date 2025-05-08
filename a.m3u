@@ -245,24 +245,24 @@ https://tv1.arectv30.sbs/live/t4.m3u8
 
 #〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️TABİİ SPOR〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
-#EXTINF:-1  tvg-country="TR" tvg-language="TR" tvg-id="Tabii Spor.tr" tvg-name="TABİİ SPOR HD" tvg-logo="" group-title="[🇹🇷]TABİİ SPOR",TABİİ SPOR HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/tabii.png",TABİİ SPOR
 https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="Tabii Spor 1.tr" tvg-name="TABİİ SPOR 1 HD" tvg-logo="" group-title="[🇹🇷]TABİİ SPOR",TABİİ SPOR 1 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/tabii.png",TABİİ SPOR 1
 https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="Tabii Spor 2.tr" tvg-name="TABİİ SPOR 2 HD" tvg-logo="" group-title="[🇹🇷]TABİİ SPOR",TABİİ SPOR 2 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/tabii.png",TABİİ SPOR 2
 https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="Tabii Spor 3.tr" tvg-name="TABİİ SPOR 3 HD" tvg-logo="" group-title="[🇹🇷]TABİİ SPOR",TABİİ SPOR 3 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/tabii.png",TABİİ SPOR 3
 https://ujnf69op16x2fiiywxcnx41q8.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="Tabii Spor 4.tr" tvg-name="TABİİ SPOR 4 HD" tvg-logo="" group-title="[🇹🇷]TABİİ SPOR",TABİİ SPOR 4 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/tabii.png",TABİİ SPOR 4
 https://bfxy3jgeydpbphtk8qfqwm3hr.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="Tabii Spor 5.tr" tvg-name="TABİİ SPOR 5 HD" tvg-logo="" group-title="[🇹🇷]TABİİ SPOR",TABİİ SPOR 5 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/tabii.png",TABİİ SPOR 5
 https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
 
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="Tabii Spor 5.tr" tvg-name="TABİİ SPOR 6 HD" tvg-logo="" group-title="[🇹🇷]TABİİ SPOR",TABİİ SPOR 6 HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/tabii.png",TABİİ SPOR 6
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
 
