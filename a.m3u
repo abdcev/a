@@ -221,12 +221,15 @@ https://tv1.arectv30.sbs/live/euro1.m3u8
 #➖➖➖➖➖➖➖➖➖➖TİVİBU SPOR KANALLARI➖➖➖➖➖➖➖➖➖➖
 
 #EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TİVİBU SPOR 1 HD" tvg-id="Tivibu Spor 1.tr" tvg-logo="" group-title="[🇹🇷]Tivibu Spor",TİVİBU SPOR HD
+#EXTVLCOPT:http-user-agent=googleusercontent
 https://tv1.arectv30.sbs/live/t1.m3u8
 
 #EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TİVİBU SPOR 2 HD" tvg-id="Tivibu Spor 2.tr" tvg-logo="" group-title="[🇹🇷]Tivibu Spor",TİVİBU SPOR 2 HD
+#EXTVLCOPT:http-user-agent=googleusercontent
 https://tv1.arectv30.sbs/live/t2.m3u8
 
 #EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TİVİBU SPOR 4 HD" tvg-id="" tvg-logo="Tivibu Spor 4.tr" group-title="[🇹🇷]Tivibu Spor",TİVİBU SPOR 4 HD
+#EXTVLCOPT:http-user-agent=googleusercontent
 https://tv1.arectv30.sbs/live/t4.m3u8
 
 #〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️TABİİ SPOR〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
