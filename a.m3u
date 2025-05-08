@@ -266,4 +266,10 @@ https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo="",TEST4
-http://trkvz-m.ercdn.net/ahaberhd/ahaberhd.m3u8
+https://b.fulltvizle.com/ahaber/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="",TEST4
+https://c.fulltvizle.com/ahaber/index.m3u8
+
+#EXTINF:-1 tvg-logo="",TEST4
+https://canlitvulusal.xyz/live/ahaber/index.m3u8
