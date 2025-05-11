@@ -177,3 +177,20 @@ https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/tabii.png",TABİİ SPOR 6
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
+
+#EXTINF:-1, moviesmart turk
+https://tv.prectv5.sbs/live/mvturk.m3u8
+#EXTINF:-1, sinemaaile2
+https://tv.prectv5.sbs/live/sinemaaile2.m3u8
+#EXTINF:-1, bspremier1
+https://tv.prectv5.sbs/live/bspremier1.m3u8
+#EXTINF:-1, benseri 3
+https://tv.prectv5.sbs/live/box1.m3u8
+#EXTINF:-1, benseri 2
+https://tv.prectv5.sbs/live/box2.m3u8
+#EXTINF:-1, box3
+https://tv.prectv5.sbs/live/box3.m3u8
+#EXTINF:-1, bsstars
+https://tv.prectv5.sbs/live/bsstars.m3u8
+#EXTINF:-1, bsturk movies
+https://tv.prectv5.sbs/live/bsturk.m3u8
