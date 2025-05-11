@@ -267,3 +267,77 @@ https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo="",TEST4
 https://b.fulltvizle.com/ahaber/playlist.m3u8
+
+
+
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TİVİBU SPOR 1 HD" tvg-id="Tivibu Spor 1.tr" tvg-logo="" group-title="[🇹🇷]Tivibu Spor",TİVİBU SPOR HD
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/t1.m3u8
+
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TİVİBU SPOR 2 HD" tvg-id="Tivibu Spor 2.tr" tvg-logo="" group-title="[🇹🇷]Tivibu Spor",TİVİBU SPOR 2 HD
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/t2.m3u8
+
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TİVİBU SPOR 3 HD" tvg-id="" tvg-logo="Tivibu Spor 3.tr" group-title="[🇹🇷]Tivibu Spor",TİVİBU SPOR 3 HD
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/t3.m3u8
+
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TİVİBU SPOR 4 HD" tvg-id="" tvg-logo="Tivibu Spor 4.tr" group-title="[🇹🇷]Tivibu Spor",TİVİBU SPOR 4 HD
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/t4.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="73" tvg-name="FX" tvg-logo="" group-title="[🇹🇷]Sinema",FX
+https://saran-live.ercdn.net/fx/index.m3u8
+
+#EXTINF:-1 tvg-id="67" tvg-name="MOVİESMART TÜRK" tvg-logo="" group-title="[🇹🇷]Sinema",MOVİESMART TÜRK
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/mvturk.m3u8
+
+#EXTINF:-1 tvg-id="61" tvg-name="SİNEMA TV" tvg-logo="" group-title="[🇹🇷]Sinema",SİNEMA TV
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/sinema.m3u8
+
+#EXTINF:-1 tvg-id="60" tvg-name="SİNEMA TV 2" tvg-logo="" group-title="[🇹🇷]Sinema",SİNEMA TV 2
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/sinema2.m3u8
+
+#EXTINF:-1 tvg-id="59" tvg-name="SİNEMA TV AKSİYON" tvg-logo="" group-title="[🇹🇷]Sinema",SİNEMA TV AKSİYON
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/sinemaaksiyon.m3u8
+
+#EXTINF:-1 tvg-id="57" tvg-name="SİNEMA TV KOMEDİ" tvg-logo="" group-title="[🇹🇷]Sinema",SİNEMA TV KOMEDİ
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/sinemakomedi.m3u8
+
+#EXTINF:-1 tvg-id="56" tvg-name="SİNEMA TV YERLİ" tvg-logo="" group-title="[🇹🇷]Sinema",SİNEMA TV YERLİ
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/sinemayerli.m3u8
+
+#EXTINF:-1 tvg-id="55" tvg-name="SİNEMA TV AİLE" tvg-logo="" group-title="[🇹🇷]Sinema",SİNEMA TV AİLE
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/sinemaaile.m3u8
+
+#EXTINF:-1 tvg-id="53" tvg-name="SİNEMA TV 1001" tvg-logo="" group-title="[🇹🇷]Sinema",SİNEMA TV 1001
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/sinema1001.m3u8
+
+#EXTINF:-1 tvg-id="52" tvg-name="SİNEMA TV 1002" tvg-logo="" group-title="[🇹🇷]Sinema",SİNEMA TV 1002
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/sinema1002.m3u8
