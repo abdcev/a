@@ -276,6 +276,7 @@ https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="33" tvg-name="Disney JR" tvg-logo="" group-title="[🇹🇷]Çocuk",DİSNEY JR
 https://saran-live.ercdn.net/disneyjunior/index.m3u8
 
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="CARTOON NETWORK" tvg-id="" tvg-logo="" group-title="[🇹🇷]Çocuk",CARTOON NETWORK
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
 https://tv1.arectv30.sbs/live/cartoonnetwork.m3u8
 
