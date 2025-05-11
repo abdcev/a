@@ -145,6 +145,13 @@ https://stream.kaztrk.kz/regional/semeytv/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/trtcocuk.png",TRT ÇOCUK
 https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
 
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="33" tvg-name="Disney JR" tvg-logo="" group-title="[🇹🇷]Çocuk",DİSNEY JR
+https://saran-live.ercdn.net/disneyjunior/index.m3u8
+
+#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="CARTOON NETWORK" tvg-id="" tvg-logo="" group-title="[🇹🇷]Çocuk",CARTOON NETWORK
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+https://tv1.arectv30.sbs/live/cartoonnetwork.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/medina.png",Al Sunnah Al Nabawiyah TV
 http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
 
@@ -271,62 +278,3 @@ https://z3mmimwz148csv0vaxtphqspf.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/tabii.png",TABİİ SPOR 6
 https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
-
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-id="33" tvg-name="Disney JR" tvg-logo="" group-title="[🇹🇷]Çocuk",DİSNEY JR
-https://saran-live.ercdn.net/disneyjunior/index.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="CARTOON NETWORK" tvg-id="" tvg-logo="" group-title="[🇹🇷]Çocuk",CARTOON NETWORK
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://tv1.arectv30.sbs/live/cartoonnetwork.m3u8
-
-#⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️SİNEMA KANALLARI⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️⚪️
-
-#EXTINF:-1 tvg-id="73" tvg-name="FX" tvg-logo="" group-title="[🇹🇷]Sinema",FX
-https://saran-live.ercdn.net/fx/index.m3u8
-
-#EXTINF:-1 tvg-id="67" tvg-name="MOVİESMART TÜRK" tvg-logo="" group-title="[🇹🇷]Sinema",MOVİESMART TÜRK
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/mvturk.m3u8
-
-#EXTINF:-1 tvg-id="61" tvg-name="SİNEMA TV" tvg-logo="" group-title="[🇹🇷]Sinema",SİNEMA TV
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/sinema.m3u8
-
-#EXTINF:-1 tvg-id="60" tvg-name="SİNEMA TV 2" tvg-logo="" group-title="[🇹🇷]Sinema",SİNEMA TV 2
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/sinema2.m3u8
-
-#EXTINF:-1 tvg-id="59" tvg-name="SİNEMA TV AKSİYON" tvg-logo="" group-title="[🇹🇷]Sinema",SİNEMA TV AKSİYON
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/sinemaaksiyon.m3u8
-
-#EXTINF:-1 tvg-id="57" tvg-name="SİNEMA TV KOMEDİ" tvg-logo="" group-title="[🇹🇷]Sinema",SİNEMA TV KOMEDİ
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/sinemakomedi.m3u8
-
-#EXTINF:-1 tvg-id="56" tvg-name="SİNEMA TV YERLİ" tvg-logo="" group-title="[🇹🇷]Sinema",SİNEMA TV YERLİ
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/sinemayerli.m3u8
-
-#EXTINF:-1 tvg-id="55" tvg-name="SİNEMA TV AİLE" tvg-logo="" group-title="[🇹🇷]Sinema",SİNEMA TV AİLE
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/sinemaaile.m3u8
-
-#EXTINF:-1 tvg-id="53" tvg-name="SİNEMA TV 1001" tvg-logo="" group-title="[🇹🇷]Sinema",SİNEMA TV 1001
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/sinema1001.m3u8
-
-#EXTINF:-1 tvg-id="52" tvg-name="SİNEMA TV 1002" tvg-logo="" group-title="[🇹🇷]Sinema",SİNEMA TV 1002
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/sinema1002.m3u8
-
