@@ -156,67 +156,17 @@ https://saran-live.ercdn.net/natgeohd/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/natioanalgeographicwild.png",Natioanal Geographic Wild
 https://saran-live.ercdn.net/natgeowild/index.m3u8
-s://tv1
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/discovery.png", Discovery
-http.arectv30.sbs/live/discovery.m3u8
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/discovery.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/discovery.png", Discovery ID
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/discs.m3u8
 #🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣BEIN SPORTS KANALLARI🟣🟣🟣🟣🟣🟣🟣🟣🟣🟣
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/beinsports.png",beIN SPORTS 1
-#EXTVLCOPT:http-origin=https://evabet1.tv
-#EXTVLCOPT:http-referrer=https://evabet1.tv
-https://xn--tdaaa.mevzuhls37.cfd/yayinzirve.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/beinsports.png",beIN SPORTS HD 1
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://r14.af92.workers.dev/static/bs1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/beinsports.png",beIN SPORTS 2
-#EXTVLCOPT:http-origin=https://evabet1.tv
-#EXTVLCOPT:http-referrer=https://evabet1.tv
-https://xn--tdaaa.mevzuhls37.cfd/yayinb2.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/beinsports.png",beIN SPORTS 2
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://r14.af92.workers.dev/static/bs2.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/beinsports.png",beIN SPORTS 3
-#EXTVLCOPT:http-origin=https://evabet1.tv
-#EXTVLCOPT:http-referrer=https://evabet1.tv
-https://xn--tdaaa.mevzuhls37.cfd/yayinb3.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/beinsports.png",beIN SPORTS 3
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://r14.af92.workers.dev/static/bs3.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/beinsports.png",beIN SPORTS 4
-#EXTVLCOPT:http-origin=https://evabet1.tv
-#EXTVLCOPT:http-referrer=https://evabet1.tv
-https://xn--tdaaa.mevzuhls37.cfd/yayinb4.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/beinsports.png",beIN SPORTS 4
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://r14.af92.workers.dev/static/bs4.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/beinsports.png",BeIN SPORTS 5
-#EXTVLCOPT:http-origin=https://evabet1.tv
-#EXTVLCOPT:http-referrer=https://evabet1.tv
-https://xn--tdaaa.mevzuhls37.cfd/yayinb5.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/beinsports.png",beIN SPORTS MAX 1
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/bm1.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/beinsports.png",beIN SPORTS MAX 2
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/bm2.m3u8
-
-*--************************
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/beinsports.png",beIN SPORTS 1
 #EXTVLCOPT:http-user-agent=googleusercontent
