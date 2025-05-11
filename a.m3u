@@ -216,6 +216,58 @@ https://tv1.arectv30.sbs/live/bm1.m3u8
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/bm2.m3u8
 
+*--************************
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/beinsports.png",beIN SPORTS 1
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://r14.af92.workers.dev/static/bs11.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/beinsports.png",beIN SPORTS 1 +
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://r14.af92.workers.dev/static/bs1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/beinsports.png",beIN SPORTS 2
+#EXTVLCOPT:http-origin=https://evabet1.tv
+#EXTVLCOPT:http-referrer=https://evabet1.tv
+https://xn--tdaaa.mevzuhls37.cfd/yayinb2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/beinsports.png",beIN SPORTS 2 +
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://r14.af92.workers.dev/static/bs2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/beinsports.png",beIN SPORTS 3
+#EXTVLCOPT:http-origin=https://evabet1.tv
+#EXTVLCOPT:http-referrer=https://evabet1.tv
+https://xn--tdaaa.mevzuhls37.cfd/yayinb3.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/beinsports.png",beIN SPORTS 3 +
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://r14.af92.workers.dev/static/bs3.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/beinsports.png",beIN SPORTS 4
+#EXTVLCOPT:http-origin=https://evabet1.tv
+#EXTVLCOPT:http-referrer=https://evabet1.tv
+https://xn--tdaaa.mevzuhls37.cfd/yayinb4.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/beinsports.png",beIN SPORTS 4 +
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://r14.af92.workers.dev/static/bs4.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/beinsports.png",beIN SPORTS 5
+#EXTVLCOPT:http-origin=https://evabet1.tv
+#EXTVLCOPT:http-referrer=https://evabet1.tv
+https://xn--tdaaa.mevzuhls37.cfd/yayinb5.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/beinsports.png",beIN SPORTS 5 +
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://r14.af92.workers.dev/static/bs5.m3u8
+
 #🟰🟰🟰🟰🟰🟰🟰🟰🟰🟰S-SPORT/EUROSPORT🟰🟰🟰🟰🟰🟰🟰🟰🟰🟰
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/ssportplus.png",S-SPORT+
 #EXTVLCOPT:http-user-agent=googleusercontent
@@ -233,10 +285,15 @@ https://tv1.arectv30.sbs/live/euro1.m3u8
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/t1.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/tivibuspor.png",TİVİBU SPOR 3
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/tivibuspor.png",TİVİBU SPOR 2
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://tv1.arectv30.sbs/live/t2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/tivibuspor.png",TİVİBU SPOR 3
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://tv1.arectv30.sbs/live/t3.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/tivibuspor.png",TİVİBU SPOR 4
 #EXTVLCOPT:http-user-agent=googleusercontent
@@ -267,77 +324,3 @@ https://vbtob9hyq58eiophct5qctxr2.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo="",TEST4
 https://b.fulltvizle.com/ahaber/playlist.m3u8
-
-
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TİVİBU SPOR 1 HD" tvg-id="Tivibu Spor 1.tr" tvg-logo="" group-title="[🇹🇷]Tivibu Spor",TİVİBU SPOR HD
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/t1.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TİVİBU SPOR 2 HD" tvg-id="Tivibu Spor 2.tr" tvg-logo="" group-title="[🇹🇷]Tivibu Spor",TİVİBU SPOR 2 HD
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/t2.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TİVİBU SPOR 3 HD" tvg-id="" tvg-logo="Tivibu Spor 3.tr" group-title="[🇹🇷]Tivibu Spor",TİVİBU SPOR 3 HD
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/t3.m3u8
-
-#EXTINF:-1 tvg-country="TR" tvg-language="TR" tvg-name="TİVİBU SPOR 4 HD" tvg-id="" tvg-logo="Tivibu Spor 4.tr" group-title="[🇹🇷]Tivibu Spor",TİVİBU SPOR 4 HD
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/t4.m3u8
-
-
-
-
-
-#EXTINF:-1 tvg-id="73" tvg-name="FX" tvg-logo="" group-title="[🇹🇷]Sinema",FX
-https://saran-live.ercdn.net/fx/index.m3u8
-
-#EXTINF:-1 tvg-id="67" tvg-name="MOVİESMART TÜRK" tvg-logo="" group-title="[🇹🇷]Sinema",MOVİESMART TÜRK
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/mvturk.m3u8
-
-#EXTINF:-1 tvg-id="61" tvg-name="SİNEMA TV" tvg-logo="" group-title="[🇹🇷]Sinema",SİNEMA TV
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/sinema.m3u8
-
-#EXTINF:-1 tvg-id="60" tvg-name="SİNEMA TV 2" tvg-logo="" group-title="[🇹🇷]Sinema",SİNEMA TV 2
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/sinema2.m3u8
-
-#EXTINF:-1 tvg-id="59" tvg-name="SİNEMA TV AKSİYON" tvg-logo="" group-title="[🇹🇷]Sinema",SİNEMA TV AKSİYON
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/sinemaaksiyon.m3u8
-
-#EXTINF:-1 tvg-id="57" tvg-name="SİNEMA TV KOMEDİ" tvg-logo="" group-title="[🇹🇷]Sinema",SİNEMA TV KOMEDİ
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/sinemakomedi.m3u8
-
-#EXTINF:-1 tvg-id="56" tvg-name="SİNEMA TV YERLİ" tvg-logo="" group-title="[🇹🇷]Sinema",SİNEMA TV YERLİ
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/sinemayerli.m3u8
-
-#EXTINF:-1 tvg-id="55" tvg-name="SİNEMA TV AİLE" tvg-logo="" group-title="[🇹🇷]Sinema",SİNEMA TV AİLE
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/sinemaaile.m3u8
-
-#EXTINF:-1 tvg-id="53" tvg-name="SİNEMA TV 1001" tvg-logo="" group-title="[🇹🇷]Sinema",SİNEMA TV 1001
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/sinema1001.m3u8
-
-#EXTINF:-1 tvg-id="52" tvg-name="SİNEMA TV 1002" tvg-logo="" group-title="[🇹🇷]Sinema",SİNEMA TV 1002
-#EXTVLCOPT:http-user-agent=googleusercontent
-#EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/sinema1002.m3u8
