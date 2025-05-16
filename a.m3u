@@ -36,7 +36,13 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/atv.png",ATV
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+https://vavoo.to/play/1332310706/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/atv.png",ATV 1
+https://vavoo.to/play/129909794/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/atv.png",ATV 2
+https://vavoo.to/play/455930425/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/now.png",NOW
 https://a.abdcev.workers.dev/live/index.m3u8
@@ -168,6 +174,4 @@ https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master.m3u8
 https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master.m3u8
 
 #EXTINF:-1 tvg-logo="",TEST
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-#EXTVLCOPT:http-referrer=https://www.atv.com.tr/canli-yayin
-https://trkvz.daioncdn.net/atv/atv.m3u8
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
