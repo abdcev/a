@@ -33,17 +33,25 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/atv.png",ATV
-https://raw.githubusercontent.com/kopruluu55/main/dbb027c2c1f2c1e190171e29937b708e2e4f5193/atv.m3u8
+https://vavoo.to/play/1332310706/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/atv.png",ATV 2
-https://vavoo.to/play/2753787815/index.m3u8
+https://vavoo.to/play/4264520273/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/atv.png",ATV 3
-http://live3sr.kablowebtv.com/Live/HLS/4089/4089.m3u8
+https://vavoo.to/play/2325261286/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/atv.png",ATV 4
-http://tabiptv.a0001.net/vavoo.php?id=4264520273.m3u8
+https://vavoo.to/play/2861010641/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/atv.png",ATV 5
+https://vavoo.to/play/1255594337/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/atv.png",ATV 6
+https://vavoo.to/play/129909794/index.
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/atv.png",ATV 7
+https://vavoo.to/play/455930425/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/now.png",NOW
 https://a.abdcev.workers.dev/live/index.m3u8
