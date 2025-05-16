@@ -1,175 +1,168 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-logo="",TEST
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/trt1.png",TRT 1
 https://a.dalinpepe1.workers.dev/kanal1.m3u8
 
-#EXTINF:-1 tvg-logo="",TEST
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/trthaber.png",TRT HABER
 https://a.dalinpepe1.workers.dev/kanal2.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/trt1.png",TRT 1
-https://tv-trt1.medya.trt.com.tr/master_720.m3u8
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/trthaber.png",TRT HABER
-https://tv-trthaber.medya.trt.com.tr/master_720.m3u8
-
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/trt2.png",TRT 2
-https://tv-trt2.medya.trt.com.tr/master_720.m3u8
+https://a.dalinpepe1.workers.dev/kanal3.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/trtbelgesel.png",TRT BELGESEL
-https://tv-trtbelgesel.medya.trt.com.tr/master_720.m3u8
+https://a.dalinpepe1.workers.dev/kanal4.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/trtavaz.png",TRT AVAZ
-https://tv-trtavaz.medya.trt.com.tr/master_720.m3u8
+https://a.dalinpepe1.workers.dev/kanal5.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/diyanettv.png",Diyanet TV
-https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
+https://a.dalinpepe1.workers.dev/kanal6.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/tgrthaber.png",TGRT HABER
-https://canli.tgrthaber.com/tgrt.m3u8
+https://a.dalinpepe1.workers.dev/kanal7.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/kanald.png",KANAL D
-https://demiroren-live.daioncdn.net/kanald/kanald.m3u8
+https://a.dalinpepe1.workers.dev/kanal8.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/kanal7.png",KANAL 7
-https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+https://a.dalinpepe1.workers.dev/kanal9.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/showtv.png",SHOW TV
-https://ciner-live.daioncdn.net/showtv/showtv.m3u8
+https://a.dalinpepe1.workers.dev/kanal10.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/star.png",STAR
-https://dogus-live.daioncdn.net/startv/startv.m3u8
+https://a.dalinpepe1.workers.dev/kanal11.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/atv.png",ATV 1
-http://89.187.191.41/ATV-HD-TR/video.m3u8
+https://a.dalinpepe1.workers.dev/kanal12.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/atv.png",ATV 2 Yedek
-http://116.202.238.88/ATV_TR/tracks-v1a1/index.m3u8
+https://a.dalinpepe1.workers.dev/kanal13.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/atv.png",ATV 3 Yedek
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv_720p.m3u8
+https://a.dalinpepe1.workers.dev/kanal14.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/tv8.png",TV8
-https://tv8.daioncdn.net/tv8/tv8.m3u8?app=7ddc255a-ef47-4e81-ab14-c0e5f2949788&ce=3&ppid=193e914bf37108b6cb17a44cab3cb39b
+https://a.dalinpepe1.workers.dev/kanal15.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/tv85.png",TV8.5
-https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3&ppid=193e914bf37108b6cb17a44cab3cb39b
+https://a.dalinpepe1.workers.dev/kanal16.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/beyaztv.png",BEYAZ TV
-https://beyaztv.daioncdn.net/beyaztv/beyaztv.m3u8?app=fcd5c66b-da9d-44ba-a410-4f34805c397d&ce=3
+https://a.dalinpepe1.workers.dev/kanal17.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/tv4.png",TV 4
-https://turkmedya-live.ercdn.net/tv4/tv4_1080p.m3u8
+https://a.dalinpepe1.workers.dev/kanal18.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/cine1.png",CİNE1
-https://live.artidijitalmedya.com/artidijital_cine1/cine1/playlist.m3u8
+https://a.dalinpepe1.workers.dev/kanal19.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/tlc.png",TLC
-https://dogus.daioncdn.net/tlc/tlc.m3u8?ce=3&app=1aca0aa1-06e3-41ff-a8e5-38d7df475469&token=b3E2NmdzZVc1VUtMV3ljbzNaNDE5REl4UTVDejlFNkRFT2dEQVlnNldsMD0=
+https://a.dalinpepe1.workers.dev/kanal20.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/dmax.png",DMAX
-https://dogus.daioncdn.net/dmax/dmax.m3u8?ce=3&app=5a02c599-d17e-4982-9b04-090934d51af7&token=RzdHVjJJVEdSeDN5Q3JXVW9OcnZsY3V6cVlGeStxdUs3VHUzZlBpWVVSYz0=
+https://a.dalinpepe1.workers.dev/kanal21.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/teve2.png",TEVE2
-https://teve2.duhnet.tv/S2/HLS_LIVE/teve2np/playlist.m3u8
+https://a.dalinpepe1.workers.dev/kanal22.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/360tv.png",360
-https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+https://a.dalinpepe1.workers.dev/kanal23.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/ahaber.png",A HABER
-http://78.128.125.60:9981/play/a017/index.m3u8
+https://a.dalinpepe1.workers.dev/kanal24.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/cnntürk.png",CNN TÜRK
-http://176.65.146.123:6002/play/a00z/index.m3u8
+https://a.dalinpepe1.workers.dev/kanal25.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/ntv.png",NTV
-https://dogus.daioncdn.net/ntv/ntv.m3u8?ce=3&token=e8c0dec16bf84c8cc187224d13811c0e705fd2c58b25d7ee&ppid=193e914bf37108b6cb17a44cab3cb39b
+https://a.dalinpepe1.workers.dev/kanal26.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/haberturk.png",HABERTÜRK
-https://ciner.daioncdn.net/haberturktv/haberturktv.m3u8?app=c98ab0b0-50cc-495b-bb37-778e91f5ff5b&ce=3&ppid=193e914bf37108b6cb17a44cab3cb39b
+https://a.dalinpepe1.workers.dev/kanal27.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/bloomberg.png",BLOOMBERG HT
-https://ciner.daioncdn.net/bloomberght/bloomberght.m3u8?e=1649424566&st=4Y790MeXScF5LDOhVNykUQ&tv=1&app=201b9556-b11c-4d92-b264-f21fd24e9aaf&ce=3&ppid=193e914bf37108b6cb17a44cab3cb39b
+https://a.dalinpepe1.workers.dev/kanal28.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/24.png",24
-https://turkmedya-live.ercdn.net/tv24/tv24.m3u8
+https://a.dalinpepe1.workers.dev/kanal29.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/tv100.png",TV 100
-https://tv100.daioncdn.net/tv100/tv100.m3u8?app=web&ppid=193e914bf37108b6cb17a44cab3cb39b
+https://a.dalinpepe1.workers.dev/kanal30.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/apara.png",A PARA
-http://185.234.111.229:8000/play/a01l
+https://a.dalinpepe1.workers.dev/kanal31.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/trtspor.png",TRT SPOR
-https://tv-trtspor1.medya.trt.com.tr/master.m3u8
+https://a.dalinpepe1.workers.dev/kanal32.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/fbtv.png",FB TV
-https://1hskrdto.rocketcdn.com/fenerbahcetv.stream/playlist.m3u8
+https://a.dalinpepe1.workers.dev/kanal33.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/aspor.png",A SPOR
-https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
+https://a.dalinpepe1.workers.dev/kanal34.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/qazaqstan.png",Qazaqstan
-https://qazaqstantv-stream.qazcdn.com/international/international/playlist.m3u8
+https://a.dalinpepe1.workers.dev/kanal35.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/abaitv.png",Abai TV
-https://abaitv-stream.qazcdn.com/abaitv/abaitv/playlist.m3u8
+https://a.dalinpepe1.workers.dev/kanal36.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/aqjaiyq.png",Aqjaiyq
-https://stream.kaztrk.kz/regional/oraltv/index.m3u8
+https://a.dalinpepe1.workers.dev/kanal37.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/ertis.png",Ertis
-https://stream.kaztrk.kz/regional/pavlodartv/index.m3u8
+https://a.dalinpepe1.workers.dev/kanal38.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/atyray.png",Atyray
-https://stream.kaztrk.kz/regional/atyrautv/index.m3u8
+https://a.dalinpepe1.workers.dev/kanal39.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/jambyl.png",Jambyl
-https://stream.kaztrk.kz/regional/taraztv/index.m3u8
+https://a.dalinpepe1.workers.dev/kanal40.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/kokshe.png",Kokshe
-https://stream.kaztrk.kz/regional/kokshetautv/index.m3u8
+https://a.dalinpepe1.workers.dev/kanal41.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/mangystay.png",Mangystay
-https://stream.kaztrk.kz/regional/mangystautv/index.m3u8
+https://a.dalinpepe1.workers.dev/kanal42.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/qostanai.png",Qostanai
-https://stream.kaztrk.kz/regional/kostanaytv/index.m3u8
+https://a.dalinpepe1.workers.dev/kanal43.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/qyzyljar.png",Qyzyljar
-https://stream.kaztrk.kz/regional/petropavltv/index.m3u8
+https://a.dalinpepe1.workers.dev/kanal44.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/qyzylorda.png",Qyzylorda
-https://stream.kaztrk.kz/regional/kyzylordatv/index.m3u8
+https://a.dalinpepe1.workers.dev/kanal45.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/saryarqa.png",Saryarqa
-https://stream.kaztrk.kz/regional/karagandytv/index.m3u8
+https://a.dalinpepe1.workers.dev/kanal46.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/semei.png",Semei
-https://stream.kaztrk.kz/regional/semeytv/index.m3u8
+https://a.dalinpepe1.workers.dev/kanal47.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/trtcocuk.png",TRT ÇOCUK
-https://tv-trtcocuk.medya.trt.com.tr/master.m3u8
+https://a.dalinpepe1.workers.dev/kanal48.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/cartoonnetwork.png", CARTOON NETWORK
 #EXTVLCOPT:http-user-agent=okhttp/4.12.0
-https://tv1.arectv30.sbs/live/cartoonnetwork.m3u8
+https://a.dalinpepe1.workers.dev/kanal49.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/medina.png",Al Sunnah Al Nabawiyah TV
-http://m.live.net.sa:1935/live/sunnah/playlist.m3u8
+https://a.dalinpepe1.workers.dev/kanal50.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/makka.png",Al Quran Al Kareem TV
-https://al-ekhbaria-prod-dub.shahid.net/out/v1/9885cab0a3ec4008b53bae57a27ca76b/index.m3u8
+https://a.dalinpepe1.workers.dev/kanal51.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/discovery.png", Discovery
 #EXTVLCOPT:http-user-agent=googleusercontent
 #EXTVLCOPT:http-referrer=https://twitter.com/
-https://tv1.arectv30.sbs/live/discovery.m3u8
+https://a.dalinpepe1.workers.dev/kanal52.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/tabii.png",TABİİ SPOR
-https://beert7sqimrk0bfdupfgn6qew.medya.trt.com.tr/master_720.m3u8
+https://a.dalinpepe1.workers.dev/kanal53.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/tabii.png",TABİİ SPOR 1
-https://iaqzu4szhtzeqd0edpsayinle.medya.trt.com.tr/master_720.m3u8
+https://a.dalinpepe1.workers.dev/kanal54.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/tabii.png",TABİİ SPOR 2
-https://klublsslubcgyiz7zqt5bz8il.medya.trt.com.tr/master_1080.m3u8
+https://a.dalinpepe1.workers.dev/kanal55.m3u8
