@@ -1,4 +1,8 @@
 #EXTM3U
+
+#EXTINF:-1 tvg-logo="",TEST
+https://a.dalinpepe1.workers.dev/kanal1.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/trt1.png",TRT 1
 https://tv-trt1.medya.trt.com.tr/master_720.m3u8
 
