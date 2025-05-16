@@ -33,7 +33,7 @@ https://ciner-live.daioncdn.net/showtv/showtv.m3u8
 https://dogus-live.daioncdn.net/startv/startv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/atv.png",ATV
-https://trkvz.daioncdn.net/atv/atv.m3u8?app=web
+https://raw.githubusercontent.com/kopruluu55/main/dbb027c2c1f2c1e190171e29937b708e2e4f5193/atv.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/atv.png",ATV 2
 https://vavoo.to/play/2753787815/index.m3u8
