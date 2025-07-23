@@ -39,7 +39,6 @@ https://a.dalinpepe1.workers.dev/kanal12.m3u8
 https://a.dalinpepe1.workers.dev/kanal13.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/atv.png",ATV 3 Yedek
-#EXTGRP:unsorted
 https://a.dalinpepe1.workers.dev/kanal14.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/now.png",NOW
