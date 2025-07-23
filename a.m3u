@@ -157,11 +157,11 @@ https://a.dalinpepe1.workers.dev/kanal50.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/makka.png",Al Quran Al Kareem TV
 https://a.dalinpepe1.workers.dev/kanal51.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/natioanalgeographicwild.png.png", National Geographic Wild
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/natioanalgeographicwild.png", National Geographic Wild
 #EXTGRP:unsorted
 https://a.dalinpepe1.workers.dev/kanal56.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/natioanalgeographic.png.png", National Geographic
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/natioanalgeographic.png", National Geographic
 #EXTGRP:unsorted
 https://a.dalinpepe1.workers.dev/kanal57.m3u8
 
