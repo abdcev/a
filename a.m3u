@@ -1,0 +1,180 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/trt1.png",TRT 1
+https://a.dalinpepe1.workers.dev/kanal1.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/trthaber.png",TRT HABER
+https://a.dalinpepe1.workers.dev/kanal2.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/trt2.png",TRT 2
+https://a.dalinpepe1.workers.dev/kanal3.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/trtbelgesel.png",TRT BELGESEL
+https://a.dalinpepe1.workers.dev/kanal4.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/trtavaz.png",TRT AVAZ
+https://a.dalinpepe1.workers.dev/kanal5.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/diyanettv.png",Diyanet TV
+https://a.dalinpepe1.workers.dev/kanal6.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/tgrthaber.png",TGRT HABER
+https://a.dalinpepe1.workers.dev/kanal7.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/kanald.png",KANAL D
+https://a.dalinpepe1.workers.dev/kanal8.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/kanal7.png",KANAL 7
+https://a.dalinpepe1.workers.dev/kanal9.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/showtv.png",SHOW TV
+https://a.dalinpepe1.workers.dev/kanal10.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/star.png",STAR
+https://a.dalinpepe1.workers.dev/kanal11.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/atv.png",ATV 1
+https://a.dalinpepe1.workers.dev/kanal12.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/atv.png",ATV 2 Yedek
+https://a.dalinpepe1.workers.dev/kanal13.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/atv.png",ATV 3 Yedek
+#EXTGRP:unsorted
+https://a.dalinpepe1.workers.dev/kanal14.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/now.png",NOW
+https://a.abdcev.workers.dev/live/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/tv8.png",TV8
+https://a.dalinpepe1.workers.dev/kanal15.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/tv85.png",TV8.5
+https://a.dalinpepe1.workers.dev/kanal16.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/beyaztv.png",BEYAZ TV
+https://a.dalinpepe1.workers.dev/kanal17.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/tv4.png",TV 4
+https://a.dalinpepe1.workers.dev/kanal18.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/cine1.png",CİNE1
+https://a.dalinpepe1.workers.dev/kanal19.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/tlc.png",TLC
+https://a.dalinpepe1.workers.dev/kanal20.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/dmax.png",DMAX
+https://a.dalinpepe1.workers.dev/kanal21.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/teve2.png",TEVE2
+https://a.dalinpepe1.workers.dev/kanal22.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/360tv.png",360
+https://a.dalinpepe1.workers.dev/kanal23.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/ahaber.png",A HABER
+https://a.dalinpepe1.workers.dev/kanal24.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/cnntürk.png",CNN TÜRK
+https://a.dalinpepe1.workers.dev/kanal25.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/ntv.png",NTV
+https://a.dalinpepe1.workers.dev/kanal26.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/haberturk.png",HABERTÜRK
+https://a.dalinpepe1.workers.dev/kanal27.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/bloomberg.png",BLOOMBERG HT
+https://a.dalinpepe1.workers.dev/kanal28.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/24.png",24
+https://a.dalinpepe1.workers.dev/kanal29.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/tv100.png",TV 100
+https://a.dalinpepe1.workers.dev/kanal30.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/apara.png",A PARA
+https://a.dalinpepe1.workers.dev/kanal31.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/trtspor.png",TRT SPOR
+https://a.dalinpepe1.workers.dev/kanal32.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/fbtv.png",FB TV
+https://a.dalinpepe1.workers.dev/kanal33.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/aspor.png",A SPOR
+https://a.dalinpepe1.workers.dev/kanal34.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/qazaqstan.png",Qazaqstan
+https://a.dalinpepe1.workers.dev/kanal35.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/abaitv.png",Abai TV
+https://a.dalinpepe1.workers.dev/kanal36.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/aqjaiyq.png",Aqjaiyq
+https://a.dalinpepe1.workers.dev/kanal37.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/ertis.png",Ertis
+https://a.dalinpepe1.workers.dev/kanal38.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/atyray.png",Atyray
+https://a.dalinpepe1.workers.dev/kanal39.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/jambyl.png",Jambyl
+https://a.dalinpepe1.workers.dev/kanal40.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/kokshe.png",Kokshe
+https://a.dalinpepe1.workers.dev/kanal41.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/mangystay.png",Mangystay
+https://a.dalinpepe1.workers.dev/kanal42.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/qostanai.png",Qostanai
+https://a.dalinpepe1.workers.dev/kanal43.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/qyzyljar.png",Qyzyljar
+https://a.dalinpepe1.workers.dev/kanal44.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/qyzylorda.png",Qyzylorda
+https://a.dalinpepe1.workers.dev/kanal45.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/saryarqa.png",Saryarqa
+https://a.dalinpepe1.workers.dev/kanal46.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/semei.png",Semei
+https://a.dalinpepe1.workers.dev/kanal47.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/trtcocuk.png",TRT ÇOCUK
+https://a.dalinpepe1.workers.dev/kanal48.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/cartoonnetwork.png", CARTOON NETWORK
+https://a.dalinpepe1.workers.dev/kanal49.m3u8
+#EXTVLCOPT:http-user-agent=okhttp/4.12.0
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/medina.png",Al Sunnah Al Nabawiyah TV
+https://a.dalinpepe1.workers.dev/kanal50.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/makka.png",Al Quran Al Kareem TV
+https://a.dalinpepe1.workers.dev/kanal51.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/natioanalgeographicwild.png.png", National Geographic Wild
+#EXTGRP:unsorted
+https://a.dalinpepe1.workers.dev/kanal56.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/natioanalgeographic.png.png", National Geographic
+#EXTGRP:unsorted
+https://a.dalinpepe1.workers.dev/kanal57.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/discovery.png", Discovery
+#EXTVLCOPT:http-user-agent=googleusercontent
+#EXTVLCOPT:http-referrer=https://twitter.com/
+https://a.dalinpepe1.workers.dev/kanal52.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/tabii.png",TABİİ SPOR
+https://a.dalinpepe1.workers.dev/kanal53.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/tabii.png",TABİİ SPOR 1
+https://a.dalinpepe1.workers.dev/kanal54.m3u8
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/tabii.png",TABİİ SPOR 2
+https://a.dalinpepe1.workers.dev/kanal55.m3u8
