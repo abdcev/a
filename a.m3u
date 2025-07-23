@@ -148,9 +148,6 @@ https://a.dalinpepe1.workers.dev/kanal47.m3u8
 https://a.dalinpepe1.workers.dev/kanal48.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/cartoonnetwork.png", CARTOON NETWORK
-https://a.dalinpepe1.workers.dev/kanal49.m3u8
-#EXTVLCOPT:http-referrer=https://tv.canlitv.vip/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/medina.png",Al Sunnah Al Nabawiyah TV
 https://a.dalinpepe1.workers.dev/kanal50.m3u8
