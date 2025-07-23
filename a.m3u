@@ -149,7 +149,6 @@ https://a.dalinpepe1.workers.dev/kanal48.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/cartoonnetwork.png", CARTOON NETWORK
 https://a.dalinpepe1.workers.dev/kanal49.m3u8
-#EXTVLCOPT:http-user-agent=okhttp/4.12.0
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/medina.png",Al Sunnah Al Nabawiyah TV
 https://a.dalinpepe1.workers.dev/kanal50.m3u8
