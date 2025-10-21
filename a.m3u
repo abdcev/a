@@ -166,6 +166,9 @@ https://a.dalinpepe1.workers.dev/kanal57.m3u8
 #EXTVLCOPT:http-referrer=https://twitter.com/
 https://a.dalinpepe1.workers.dev/kanal52.m3u8
 
+#EXTINF:-1 tvg-logo="",Film Screen
+https://a.dalinpepe1.workers.dev/kanal58.m3u8
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/tabii.png",TABİİ SPOR
 https://a.dalinpepe1.workers.dev/kanal53.m3u8
 
