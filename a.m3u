@@ -174,3 +174,15 @@ https://a.dalinpepe1.workers.dev/kanal54.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/tabii.png",TABİİ SPOR 2
 https://a.dalinpepe1.workers.dev/kanal55.m3u8
+
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/61431fea-4103-46a3-9f8c-aad1504b9776.png",Kral Pop TV
+https://a.dalinpepe1.workers.dev/kanal59.m3u8
+
+#EXTINF:-1 tvg-logo="http://assets.tvcdn.net/b7ff7221-f255-439d-9ee9-0f73348005b8.png",Dream Türk
+https://a.dalinpepe1.workers.dev/kanal60.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/B6N9KsN/powerturk22.png",POWER TURK
+https://a.dalinpepe1.workers.dev/kanal61.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/wSPFds2/nr1turk.png",NUMBER ONE TÜRK
+https://a.dalinpepe1.workers.dev/kanal62.m3u8
