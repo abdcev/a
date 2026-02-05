@@ -53,11 +53,23 @@ https://b.dalinpepe1.workers.dev/tlc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/dmax.png",DMAX
 https://b.dalinpepe1.workers.dev/dmax
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/image/refs/heads/main/channel-logo/sinemaaile.png",Sinema TV Aile
+https://b.dalinpepe1.workers.dev/sinemaaile
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/image/refs/heads/main/channel-logo/sinemaaksiyon.png",Sinema TV Aksiyon
+https://b.dalinpepe1.workers.dev/sinemaaksiyon
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/image/refs/heads/main/channel-logo/sinemayerli.png",Sinema TV Yerli
+https://b.dalinpepe1.workers.dev/sinemayerli
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/image/refs/heads/main/channel-logo/sinema1001.png",Sinema TV 1001
+https://b.dalinpepe1.workers.dev/sinema1001
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/image/refs/heads/main/channel-logo/cartoonnetwork.png",Cartoon Network
+https://b.dalinpepe1.workers.dev/cartoonnetwork
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/tv4.png",TV 4
 https://b.dalinpepe1.workers.dev/tv4
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/cine1.png",CİNE1
-https://b.dalinpepe1.workers.dev/cine1
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/natioanalgeographicwild.png", National Geographic Wild
 https://b.dalinpepe1.workers.dev/nationalgeographicwild
@@ -94,6 +106,55 @@ https://b.dalinpepe1.workers.dev/trtspor
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/fbtv.png",FB TV
 https://b.dalinpepe1.workers.dev/fbtv
+
+#EXTINF:-1 tvg-logo="",Bein Sports 1
+https://b.dalinpepe1.workers.dev/beinsports1
+
+#EXTINF:-1 tvg-logo="",Bein Sports 2
+https://b.dalinpepe1.workers.dev/beinsports2
+
+#EXTINF:-1 tvg-logo="",Bein Sports 3
+https://b.dalinpepe1.workers.dev/beinsports3
+
+#EXTINF:-1 tvg-logo="",Bein Sports 4
+https://b.dalinpepe1.workers.dev/beinsports4
+
+#EXTINF:-1 tvg-logo="",Bein Sports 5
+https://b.dalinpepe1.workers.dev/beinsports5
+
+#EXTINF:-1 tvg-logo="",Bein Sports Max
+https://b.dalinpepe1.workers.dev/beinsprotsmax
+
+#EXTINF:-1 tvg-logo="",Bein Sports Max 2
+https://b.dalinpepe1.workers.dev/beinsprotsmax2
+
+#EXTINF:-1 tvg-logo="",NBA TV
+https://b.dalinpepe1.workers.dev/nbatv
+
+#EXTINF:-1 tvg-logo="",S Sport 1
+https://b.dalinpepe1.workers.dev/ssport
+
+#EXTINF:-1 tvg-logo="",S Sport 2
+https://b.dalinpepe1.workers.dev/ssport2
+
+#EXTINF:-1 tvg-logo="",Tivibu Spor 1
+https://b.dalinpepe1.workers.dev/tivibuspor1
+
+#EXTINF:-1 tvg-logo="",Tivibu Spor 2
+https://b.dalinpepe1.workers.dev/tivibuspor2
+
+#EXTINF:-1 tvg-logo="",Tivibu Spor 3
+https://b.dalinpepe1.workers.dev/tivibuspor3
+
+#EXTINF:-1 tvg-logo="",Tivibu Spor 4
+https://b.dalinpepe1.workers.dev/tivibuspor4
+
+#EXTINF:-1 tvg-logo="",Eurosport 1
+https://b.dalinpepe1.workers.dev/eurosport1
+
+#EXTINF:-1 tvg-logo="",Eurosport 2
+https://b.dalinpepe1.workers.dev/eurosport2
+
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/qazaqstan.png",Qazaqstan
 https://b.dalinpepe1.workers.dev/qazaqstantv
