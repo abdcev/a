@@ -56,6 +56,9 @@ https://b.dalinpepe1.workers.dev/tlc
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/image/refs/heads/main/channel-logo/dmax.png",DMAX
 https://b.dalinpepe1.workers.dev/dmax
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/image/refs/heads/main/channel-logo/sinematv.png",Sinema TV
+https://b.dalinpepe1.workers.dev/sinematv
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/image/refs/heads/main/channel-logo/sinemaaile.png",Sinema TV Aile
 https://b.dalinpepe1.workers.dev/sinemaaile
 
