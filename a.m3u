@@ -117,19 +117,8 @@ https://b.dalinpepe1.workers.dev/trtspor
 https://b.dalinpepe1.workers.dev/fbtv
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/image/refs/heads/main/channel-logo/beinsports1.png",Bein Sports 1
-#EXTVLCOPT:http-referrer=https://a.dalinpepe1.workers.dev/beinsports1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-https://b.dalinpepe1.workers.dev/beinsports1
+https://raw.githubusercontent.com/abdcev/temp/refs/heads/main/rnl/bein-sports-1.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/image/refs/heads/main/channel-logo/beinsports2.png",Bein Sports 2 TEST
-#EXTVLCOPT:http-referrer=https://a.dalinpepe1.workers.dev/beinsports2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-https://b.dalinpepe1.workers.dev/beinsports2
-
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/image/refs/heads/main/channel-logo/beinsports3.png",Bein Sports 3
-#EXTVLCOPT:http-referrer=https://a.dalinpepe1.workers.dev/beinsports3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
-https://b.dalinpepe1.workers.dev/beinsports3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/image/refs/heads/main/channel-logo/beinsportsmax1.png",Bein Sports Max
 #EXTVLCOPT:http-referrer=https://a.dalinpepe1.workers.dev/beinsportsmax
