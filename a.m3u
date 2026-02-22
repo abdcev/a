@@ -121,7 +121,7 @@ https://b.dalinpepe1.workers.dev/fbtv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 https://b.dalinpepe1.workers.dev/beinsports1
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/image/refs/heads/main/channel-logo/beinsports2.png",Bein Sports 2
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/image/refs/heads/main/channel-logo/beinsports2.png",Bein Sports 2 TEST
 #EXTVLCOPT:http-referrer=https://a.dalinpepe1.workers.dev/beinsports2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Mobile Safari/537.36
 https://b.dalinpepe1.workers.dev/beinsports2
