@@ -119,14 +119,32 @@ https://b.dalinpepe1.workers.dev/fbtv
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/image/refs/heads/main/channel-logo/beinsports1.png",Bein Sports 1
 https://a.dalinpepe1.workers.dev/?id=bein-sports-1
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/image/refs/heads/main/channel-logo/beinsports2.png",Bein Sports 2
+https://a.dalinpepe1.workers.dev/?id=bein-sports-2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/image/refs/heads/main/channel-logo/beinsports3.png",Bein Sports 3
+https://a.dalinpepe1.workers.dev/?id=bein-sports-3
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/image/refs/heads/main/channel-logo/beinsportsmax1.png",Bein Sports Max
+https://a.dalinpepe1.workers.dev/?id=bein-sports-max-1
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/image/refs/heads/main/channel-logo/beinsportsmax2.png",Bein Sports Max 2
+https://a.dalinpepe1.workers.dev/?id=bein-sports-max-2
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/image/refs/heads/main/channel-logo/ssport.png",S Sport
+https://a.dalinpepe1.workers.dev/?id=s-sport
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/image/refs/heads/main/channel-logo/ssport2.png",S Sport 2
+https://a.dalinpepe1.workers.dev/?id=s-sport-2
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/image/refs/heads/main/channel-logo/tivibuspor1.png",Tivibu Spor 1
-https://b.dalinpepe1.workers.dev/tivibuspor1
+https://a.dalinpepe1.workers.dev/?id=tivibu-spor-1
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/image/refs/heads/main/channel-logo/tivibuspor2.png",Tivibu Spor 2
-https://b.dalinpepe1.workers.dev/tivibuspor2
+https://a.dalinpepe1.workers.dev/?id=tivibu-spor-2
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/image/refs/heads/main/channel-logo/tivibuspor3.png",Tivibu Spor 3
-https://b.dalinpepe1.workers.dev/tivibuspor3
+https://a.dalinpepe1.workers.dev/?id=tivibu-spor-3
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/abdcev/a/refs/heads/main/img/tabii.png",TABİİ SPOR
 https://b.dalinpepe1.workers.dev/tabiispor
